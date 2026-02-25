@@ -3,7 +3,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class uniRoom {
+public class DormitoryManagementSystem {
     private static int maxStudentCapacity = 24, i,j;
     private static int currentIndex =0;
     private static int[] roomCount={2,3,2,3,2,2,3,2,3,2};
