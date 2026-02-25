@@ -20,3 +20,24 @@ A console-based Java application for managing university dormitory rooms and stu
 - Console-based interaction
 
 ## 📂 Project Structure
+
+├── src/
+│   └── uniRoom.java
+
+## 🚀 How to Run
+
+1. Clone the repository
+2. Open in any Java IDE (IntelliJ, Eclipse, VS Code)
+3. Compile and run `uniRoom.java`
+
+## 📖 Learning Purpose
+
+This project was built to practice:
+- Multi-dimensional arrays
+- Logical problem solving
+- Student data management
+- Console-based UI design
+
+## 👨‍💻 Author
+
+Fatemeh Jahanbini
